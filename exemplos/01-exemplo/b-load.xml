@@ -1,0 +1,8 @@
+<image>
+<stack>
+	<layer src='./a.png'/>
+</stack>
+<stack>
+	<layer src='./b.png'/>
+</stack>
+</image>
